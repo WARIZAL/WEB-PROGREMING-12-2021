@@ -1,0 +1,45 @@
+contoh javascript
+
+contoh javascript-1 :Apa yang bisa dilakukan JavaScript?
+contoh javascript-2 :Di mana untuk Menyisipkan JavaScript
+contoh js-3         :JavaScript Output
+contoh js-4         :Sintaks JavaScript
+contoh js-5         :Pernyataan JavaScript
+contoh js-6         :Komentar JavaScript
+contoh js-7         :Variabel JavaScript
+contoh js-8         :Aritmatika JavaScript
+contoh js-9         :Tugas JavaScript
+contoh js-10        :JavaScript String Concatenation
+contoh js-11        :Tipe Data JavaScript
+contoh js-12        :Objek JavaScript
+contoh js-13        :Fungsi JavaScript
+contoh js-14        :Acara JavaScript
+contoh js-15        :String JavaScript
+contoh js-16        :Nomor JavaScript
+contoh js-17        :Metode Nomor JavaScript
+contoh js-18        :Matematika JavaScript
+contoh js-19        :JavaScript Random
+contoh js-20        :Tanggal JavaScript
+contoh js-21        :Array JavaScript
+contoh js-22        :Metode Array JavaScript
+contoh js-23        :Urutkan Array JavaScript
+contoh js-24        :Iterasi Array JavaScript
+contoh js-25        :Konversi Tipe JavaScript
+contoh js-26        :JavaScript Booleans
+contoh js-27        :Perbandingan JavaScript
+contoh js-28        :Loop JavaScript
+contoh js-29        :Penanganan Kesalahan JavaScript
+contoh js-30        :Ekspresi Reguler JavaScript
+contoh js-31        :Objek JavaScript
+contoh js-32        :Properti Objek JavaScript
+contoh js-33        :Objek JSON
+contoh js-34        :Array JSON
+contoh js-35        :JSON Parse
+contoh js-36        :JSON Stringify
+contoh js-37        :JSON PHP
+contoh js-38        :JSON HTML
+contoh js-39        :ON JSONP
+
+
+
+
