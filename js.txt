@@ -1,6 +1,24 @@
 contoh javascript
 
 contoh javascript-1 :Apa yang bisa dilakukan JavaScript?
+js dapat mengubah konten HTML        
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>What Can JavaScript Do?</h2>
+
+<p id="demo">JavaScript can change HTML content.</p>
+
+<button type="button" onclick='document.getElementById("demo").innerHTML = "Hello JavaScript!"'>Click Me!</button>
+
+</body>
+</html>
+
+        js dapat mengubah atribut HTML
+        js dapat mengunah gaya CSS
+        js menyembunyikan elemen HTML
+        js dapat menampilkan elemen HTML tersembunyi
 contoh javascript-2 :Di mana untuk Menyisipkan JavaScript
 contoh js-3         :JavaScript Output
 contoh js-4         :Sintaks JavaScript
